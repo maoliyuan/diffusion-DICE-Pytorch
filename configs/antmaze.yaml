@@ -1,0 +1,22 @@
+# experiment parameters
+save_model: True
+train_epoch: 100
+evaluation_interval: 4
+seed_per_evaluation: 50
+
+# network parameters
+hidden_dim: 256
+n_hidden: 2
+value_lr: 3.0e-4
+wt_lr: 3.0e-4
+
+# diffusion-DICE parameters
+diffusion_steps: 15
+q_ensemble_num: 0
+M: 32
+s: 
+  umaze: 1.0
+  medium: 2.0
+  large: 4.0
+twin_v: True
+filter_type: softmax
