@@ -1,5 +1,5 @@
 # Diffusion-DICE
-Official implementation for [Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning](https://arxiv.org/pdf/2407.20109). Code are based on PyTorch.
+Official implementation for [Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning](https://arxiv.org/pdf/2407.20109) [NeurlIPS 2024]. Code are based on PyTorch.
 
 Liyuan Mao\*, Haoran Xu\*, Weinan Zhang†, Xianyuan Zhan, Amy Zhang†
 
